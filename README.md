@@ -1,1 +1,1 @@
-# php-desing-patterns
+# php-design-patterns
